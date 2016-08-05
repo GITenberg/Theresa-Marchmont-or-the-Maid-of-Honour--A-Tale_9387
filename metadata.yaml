@@ -1,0 +1,28 @@
+_repo: Theresa-Marchmont-or-the-Maid-of-Honour--A-Tale_9387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gore, Mrs. (Catherine Grace Frances)
+    aliases:
+    - Gore, Charles, Mrs.
+    - Gore, Catherine Grace Frances Moody
+    birthdate: 1799
+    deathdate: 1861
+    gutenberg_agent_id: '3037'
+    url: http://www.gutenberg.org/2009/agents/3037
+    wikipedia: http://en.wikipedia.org/wiki/Catherine_Gore
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- GITenberg
+title: 'Theresa Marchmont, or, the Maid of Honour: A Tale'
+url: http://www.gutenberg.org/ebooks/9387
