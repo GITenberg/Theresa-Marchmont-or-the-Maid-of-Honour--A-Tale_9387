@@ -1,5 +1,8 @@
 _repo: Theresa-Marchmont-or-the-Maid-of-Honour--A-Tale_9387
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gore, Mrs. (Catherine Grace Frances)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3037
     wikipedia: http://en.wikipedia.org/wiki/Catherine_Gore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9387#Theresa-Marchmont-or-the-Maid-of-Honour--A-Tale
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
